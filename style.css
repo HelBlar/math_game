@@ -1,0 +1,43 @@
+*{
+  margin: 0px;
+  padding: opx;
+}
+body{
+  text-align:center;
+  font-size: 36px;
+  font-weight: bold;
+}
+h1{
+  margin:20px;
+
+}
+main{
+  margin:20px;
+  width:350px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:bisque;
+  padding: 10px;
+}
+.var{
+  font-size: 40px;
+  line-height: 140px;
+  width:125px;
+  height:125px;
+  border:solid;
+  border-color:green;
+  display:inline-block;
+}
+button{
+  margin:10px;
+  background-color:chartreuse;
+  width: 125px;
+  font-size: 22px;
+}
+button:hover{
+  cursor:pointer;
+  margin:10px;
+  background-color:rgb(191, 248, 133);
+  width: 125px;
+  font-size: 22px;
+}
